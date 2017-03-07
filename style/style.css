@@ -60,6 +60,19 @@ p.mayabg-text{
 
 }
 
+.bcircle{
+    margin: 3% 0 3% 0;
+    height: 30%;
+    width: 40%;
+    background-color: #31c63b;
+  color: #ffffff;
+}
+
+.bcircle:hover {
+  background-color: #19a523;
+ 
+}
+
 
 
 
