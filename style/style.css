@@ -45,7 +45,8 @@ p.mayabg-text{
     padding: 3% 0 3% 0;
 }
 .textareaCSS {
-    padding: 3% 0 3% 0;
+    margin: 3% 0 3% 0;
+    padding: 5% 0 5% 0;
     background-color: #ffffff;
     color: #cd144c;
     width: 80%;
