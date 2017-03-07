@@ -39,3 +39,8 @@ li a:hover, .dropdown:hover .dropbtn {
 .divpadding {
     padding: 5% 5% 5% 5%;
 }
+p.mayabg-text{
+    color: #ffffff;
+    font-size: 3vmin;
+    padding: 3% 0 3% 0;
+}
