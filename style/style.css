@@ -44,3 +44,11 @@ p.mayabg-text{
     font-size: 3vmin;
     padding: 3% 0 3% 0;
 }
+.textareaCSS {
+    padding: 3% 0 3% 0;
+    background-color: #ffffff;
+    color: #cd144c;
+    width: 80%;
+    height: 20%;
+    resize: none;
+}
