@@ -65,12 +65,18 @@ p.mayabg-text{
     padding: 2.5% 10% 2.5% 10%;
     background-color: #31c63b;
   color: #ffffff;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;;
 }
 
 .bcircle:hover {
   background-color: #19a523;
  
 }
+
+
 
 
 
