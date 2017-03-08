@@ -39,6 +39,13 @@ li a:hover, .dropdown:hover .dropbtn {
 .divpadding {
     padding: 5% 5% 5% 5%;
 }
+.padfix {
+    padding: 0 4% 0 4%;
+}
+
+.fontfix{
+    font-size: 3vmin;
+}
 p.mayabg-text{
     color: #ffffff;
     font-size: 3vmin;
@@ -46,13 +53,15 @@ p.mayabg-text{
 }
 .textareaCSS {
     margin: 3% 0 3% 0;
-    padding: 5% 0 5% 0;
+    padding: 5% 0 5% 3%;
     background-color: #ffffff;
     color: #cd144c;
     width: 80%;
     height: 20%;
     resize: none;
     border: none;
+    border: 3px solid #fb719a;
+    font-size: 2.3vmin;
 }
 .colorLightMaya{
     color: #fb719a;
@@ -90,7 +99,9 @@ height: 2px;
 width: 70%;
 }
 
-
+.bg-white {
+    background-color: #ffffff;
+}
 
 
 
