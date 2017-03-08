@@ -76,7 +76,19 @@ p.mayabg-text{
   background-color: #19a523;
  
 }
+.greycolor {
+    background-color: #ededed;
+}
+.mayacolortext {
+    color:  #cd144c;
+}
 
+.style1 {
+color: #cd144c;
+background-color: #cd144c;
+height: 2px;
+width: 70%;
+}
 
 
 
