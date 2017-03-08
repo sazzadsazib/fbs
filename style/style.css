@@ -52,6 +52,7 @@ p.mayabg-text{
     width: 80%;
     height: 20%;
     resize: none;
+    border: none;
 }
 .colorLightMaya{
     color: #fb719a;
@@ -74,6 +75,12 @@ p.mayabg-text{
 .bcircle:hover {
   background-color: #19a523;
  
+}
+
+.test{
+    background: #ccc url('assets/buttonask.png') no-repeat top left;
+    padding-left: 16px;
+    height: 16px;
 }
 
 
