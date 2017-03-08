@@ -44,11 +44,11 @@ li a:hover, .dropdown:hover .dropbtn {
 }
 
 .fontfix{
-    font-size: 3vmin;
+    font-size: 4vmin;
 }
 p.mayabg-text{
     color: #ffffff;
-    font-size: 3vmin;
+    font-size: 4vmin;
     padding: 3% 0 3% 0;
 }
 .textareaCSS {
