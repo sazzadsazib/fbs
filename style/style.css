@@ -61,11 +61,11 @@ p.mayabg-text{
     resize: none;
     border: none;
     border: 3px solid #fb719a;
-    font-size: 2.3vmin;
+    font-size: 3vmin;
 }
 .colorLightMaya{
     color: #fb719a;
-    font-size: 2.3vmin;
+    font-size: 2.5vmin;
     margin-top: -2%;
 
 }
@@ -103,6 +103,13 @@ width: 70%;
     background-color: #ffffff;
 }
 
+.imagepaddingfix {
+    padding-top: 3%;
+    padding-bottom: 1%;
+    margin-left: 3%;
+    width: 7%;
+
+}
 
 
 
